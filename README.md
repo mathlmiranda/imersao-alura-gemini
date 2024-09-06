@@ -1,4 +1,4 @@
-## Guia de Periféricos.
+## Guia de Periféricos. - Imersão Dev com o Google Gemini
 
 Criei um site pra quem curte periféricos top de linha! Você digita o nome de um mouse, teclado ou headset que tá afim e ele te mostra as melhores opções do mercado. É tipo um Google, mas só pra gamers exigentes! 
 
